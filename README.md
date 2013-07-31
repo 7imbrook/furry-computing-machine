@@ -1,4 +1,4 @@
 Furry-Computing-Machine
 =======================
 
-A GIT based blogging adventure! Why be good at the internet when your good at git!
+A Git-based blogging adventure! Why be good at the internet when you're good at Git!
